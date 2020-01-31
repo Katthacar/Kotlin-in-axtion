@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 811 1017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_267"><path d="M425,502.8v-33H640.1v33Z"/></clipPath>
+<clipPath id="c1_267"><path d="M425,777.6V744.7H640.1v32.9Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_267{
+fill: #70A6CC;
+}
+.g1_267{
+}
+]]></style>
+</defs>
+<path d="M142.4,669H710.7V647.8H142.4V669Z" class="g0_267"/>
+<path d="M439.9,475v3.2l-.3,-.1l-6.2,-2.9L433,475l.4,-.2l6.2,-2.9l.3,-.1v.3l-.1,.2l-6.2,2.9l-.2,-.4h.2l6.2,3l-.2,.3l-.1,-.1v-3Z" class="g1_267"/>
+<path d="M439.5,475h.4v-2.9h-.4V475Z" class="g1_267"/>
+<path d="M439.9,475.2h22.6v-.4H439.9v.4Z" class="g1_267"/>
+<g clip-path="url(#c0_267)">
+<path d="M462.1,502.8h.4V475h-.4v27.8Z" class="g1_267"/>
+</g>
+<path d="M439.9,749.8V753h-.3l-6.2,-3l-.4,-.2l.4,-.1l6.2,-3l.3,-.1v.3l-.1,.2l-6.2,2.9l-.2,-.3h.2l6.2,2.9l-.2,.4l-.1,-.2v-3Z" class="g1_267"/>
+<path d="M439.5,749.8h.4v-2.9h-.4v2.9Z" class="g1_267"/>
+<path d="M439.9,750h22.6v-.4H439.9v.4Z" class="g1_267"/>
+<g clip-path="url(#c1_267)">
+<path d="M462.1,777.7h.4V749.8h-.4v27.9Z" class="g1_267"/>
+</g>
+</svg>

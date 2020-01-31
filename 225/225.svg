@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 811 1017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_225"><path d="M498.5,159.9V130.2H684.9v29.7Z"/></clipPath>
+<clipPath id="c1_225"><path d="M430.7,240V207.1H684V240Z"/></clipPath>
+<clipPath id="c2_225"><path d="M452.7,606.7v-33H667.8v33Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_225{
+fill: #70A6CC;
+}
+.g1_225{
+}
+]]></style>
+</defs>
+<path d="M142.4,101.8H710.7V80.6H142.4v21.2Z" class="g0_225"/>
+<path d="M127.9,120.5v-3.1l.2,.1l6.3,2.9l.3,.1l-.3,.2l-6.3,3l-.2,.1v-.3l.1,-.2l6.2,-2.9l.2,.3h-.2L128,117.9l.1,-.4l.1,.2v2.8Z" class="g1_225"/>
+<path d="M127.9,123.5h.3v-3h-.3v3Z" class="g1_225"/>
+<path d="M119.6,120.7h8.3v-.3h-8.3v.3Z" class="g1_225"/>
+<path d="M119.6,176.2h.4V120.5h-.4v55.7Z" class="g1_225"/>
+<g clip-path="url(#c0_225)">
+<path d="M535.7,159.9h.4V130.1h-.4v29.8Z" class="g1_225"/>
+</g>
+<path d="M481.3,197.3v3.2l-.2,-.1l-6.3,-3l-.3,-.1l.3,-.2l6.3,-2.9l.2,-.1v.4l-6.3,2.9l-.2,-.3h.2l6.3,2.9l-.2,.4l-.1,-.2v-2.9Z" class="g1_225"/>
+<path d="M481,197.3h.3v-3H481v3Z" class="g1_225"/>
+<path d="M481.3,197.4h23.2v-.3H481.3v.3Z" class="g1_225"/>
+<path d="M504.2,197.3h.3V171.2h-.3v26.1Z" class="g1_225"/>
+<path d="M445.7,212.3v3.2l-.3,-.1l-6.3,-2.9l-.4,-.2l.4,-.2l6.3,-2.9l.3,-.1v.3l-.1,.2l-6.3,2.9l-.2,-.4h.2l6.3,3l-.2,.3l-.1,-.2v-2.9Z" class="g1_225"/>
+<path d="M445.3,212.3h.4v-2.9h-.4v2.9Z" class="g1_225"/>
+<path d="M445.7,212.5h22.5v-.4H445.7v.4Z" class="g1_225"/>
+<g clip-path="url(#c1_225)">
+<path d="M467.9,240h.3V212.3h-.3V240Z" class="g1_225"/>
+</g>
+<path d="M467.6,579v3.2l-.3,-.1l-6.2,-3l-.4,-.1l.4,-.2l6.2,-3h.3v.2l-.1,.2l-6.2,2.9l-.2,-.3h.2l6.2,2.9l-.2,.4l-.1,-.2V579Z" class="g1_225"/>
+<path d="M467.2,579h.4v-3h-.4v3Z" class="g1_225"/>
+<path d="M467.6,579.1h22.6v-.3H467.6v.3Z" class="g1_225"/>
+<g clip-path="url(#c2_225)">
+<path d="M489.9,606.7h.3V579h-.3v27.7Z" class="g1_225"/>
+</g>
+</svg>

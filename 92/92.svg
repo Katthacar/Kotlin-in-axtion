@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 811 1017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_92"><path d="M491.2,115.8V82.5H698.9v33.3Z"/></clipPath>
+<clipPath id="c1_92"><path d="M493,244.8V214.1H672.3v30.7Z"/></clipPath>
+<clipPath id="c2_92"><path d="M552.4,928.8V896.4H760v32.4Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_92{
+fill: #70A6CC;
+}
+.g1_92{
+}
+]]></style>
+</defs>
+<path d="M156.1,458.2H724.4V437H156.1v21.2Z" class="g0_92"/>
+<path d="M156.1,795H724.4V773.9H156.1V795Z" class="g0_92"/>
+<path d="M514.8,87.6v3.2l-.3,-.1l-6.3,-2.9l-.4,-.2l.4,-.2l6.3,-2.9l.3,-.1v.3l-.1,.2l-6.3,2.9l-.2,-.4h.2l6.3,3l-.2,.3l-.1,-.1v-3Z" class="g1_92"/>
+<path d="M514.4,87.6h.4V84.7h-.4v2.9Z" class="g1_92"/>
+<path d="M514.8,87.8h22.6v-.4H514.8v.4Z" class="g1_92"/>
+<g clip-path="url(#c0_92)">
+<path d="M537,115.8h.4V87.6H537v28.2Z" class="g1_92"/>
+</g>
+<g clip-path="url(#c1_92)">
+<path d="M510.4,244.9h.4V214.1h-.4v30.8Z" class="g1_92"/>
+</g>
+<path d="M580.7,517.9v3.2l-.3,-.1l-6.3,-2.9l-.4,-.2l.4,-.2l6.3,-2.9l.3,-.1v.3l-.1,.2l-6.3,2.9l-.2,-.4h.2l6.3,3l-.2,.3l-.1,-.1v-3Z" class="g1_92"/>
+<path d="M580.3,517.9h.4V515h-.4v2.9Z" class="g1_92"/>
+<path d="M580.7,518.1h22.6v-.4H580.7v.4Z" class="g1_92"/>
+<path d="M602.9,559.7h.4V517.9h-.4v41.8Z" class="g1_92"/>
+<path d="M540.6,563.8V567l-.3,-.1l-6.2,-3l-.4,-.1l.4,-.2l6.2,-3l.3,-.1v.3l-.1,.2l-6.3,2.9l-.1,-.3h.1l6.3,2.9l-.2,.4l-.1,-.2v-2.9Z" class="g1_92"/>
+<path d="M540.2,563.8h.4v-3h-.4v3Z" class="g1_92"/>
+<path d="M540.6,563.9h22.5v-.3H540.6v.3Z" class="g1_92"/>
+<path d="M562.7,605.5h.4V563.8h-.4v41.7Z" class="g1_92"/>
+<path d="M575.9,900.6v3.2l-.2,-.1l-6.4,-2.9l-.3,-.2l.3,-.2l6.4,-2.9l.2,-.1v.5l-6.4,2.9l-.2,-.4h.2l6.4,3l-.2,.3l-.1,-.1v-3Z" class="g1_92"/>
+<path d="M575.6,900.6h.3v-2.9h-.3v2.9Z" class="g1_92"/>
+<path d="M575.9,900.8h22.6v-.4H575.9v.4Z" class="g1_92"/>
+<g clip-path="url(#c2_92)">
+<path d="M598.1,928.8h.4V900.6h-.4v28.2Z" class="g1_92"/>
+</g>
+</svg>

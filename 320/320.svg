@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 811 1017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_320"><path d="M419.6,518.5V485.6H694.9v32.9Z"/></clipPath>
+<clipPath id="c1_320"><path d="M416.8,892.7v-33H631.9v33Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_320{
+fill: #70A6CC;
+}
+.g1_320{
+}
+]]></style>
+</defs>
+<path d="M156.1,380.2H724.4V359.1H156.1v21.1Z" class="g0_320"/>
+<path d="M156.1,784.9H724.4V763.8H156.1v21.1Z" class="g0_320"/>
+<path d="M472.2,445.1v3.2l-.3,-.1l-6.2,-2.9l-.4,-.2l.4,-.2l6.2,-2.9l.3,-.1v.3l-.1,.2l-6.3,2.9l-.1,-.4h.1l6.3,3l-.2,.3l-.1,-.1v-3Z" class="g1_320"/>
+<path d="M471.8,445.1h.4v-2.9h-.4v2.9Z" class="g1_320"/>
+<path d="M472.2,445.3h23.2v-.4H472.2v.4Z" class="g1_320"/>
+<path d="M495,445.1h.4v-26H495v26Z" class="g1_320"/>
+<path d="M434.6,490.7v3.2l-.3,-.1L428,490.9l-.4,-.2l.4,-.2l6.3,-2.9l.3,-.1v.3l-.1,.1l-6.3,3l-.2,-.4h.2l6.3,2.9l-.2,.4l-.1,-.2v-2.9Z" class="g1_320"/>
+<path d="M434.2,490.7h.4v-2.9h-.4v2.9Z" class="g1_320"/>
+<path d="M434.6,490.9h22.5v-.4H434.6v.4Z" class="g1_320"/>
+<g clip-path="url(#c0_320)">
+<path d="M456.8,518.5h.3V490.7h-.3v27.8Z" class="g1_320"/>
+</g>
+<path d="M472.2,834.5v3.2h-.3l-6.2,-3l-.4,-.2l.4,-.2l6.2,-2.9l.3,-.1v.3l-.1,.2l-6.3,2.9l-.1,-.4h.1l6.3,3l-.2,.4l-.1,-.2v-3Z" class="g1_320"/>
+<path d="M471.8,834.5h.4v-2.9h-.4v2.9Z" class="g1_320"/>
+<path d="M472.2,834.7h23.2v-.4H472.2v.4Z" class="g1_320"/>
+<path d="M495,834.5h.4v-26H495v26Z" class="g1_320"/>
+<path d="M179.8,849.6v-3.2l.2,.1l6.4,2.9l.3,.2l-.3,.2l-6.4,2.9l-.2,.1v-.3l.1,-.2l6.3,-2.9l.2,.4h-.2l-6.3,-3l.1,-.3l.1,.1v3Z" class="g1_320"/>
+<path d="M179.8,852.5h.3v-2.9h-.3v2.9Z" class="g1_320"/>
+<path d="M160.1,849.8h19.7v-.4H160.1v.4Z" class="g1_320"/>
+<path d="M160.1,875.6h.3v-26h-.3v26Z" class="g1_320"/>
+<path d="M431.8,864.9v3.2l-.3,-.1l-6.3,-2.9l-.4,-.2l.4,-.2l6.3,-2.9l.3,-.1v.2l-.1,.2l-6.4,3l-.1,-.4h.1l6.4,2.9l-.2,.4l-.1,-.2v-2.9Z" class="g1_320"/>
+<path d="M431.4,864.9h.3v-3h-.3v3Z" class="g1_320"/>
+<path d="M431.8,865.1h22.5v-.4H431.8v.4Z" class="g1_320"/>
+<g clip-path="url(#c1_320)">
+<path d="M453.9,892.7h.4V864.9h-.4v27.8Z" class="g1_320"/>
+</g>
+</svg>

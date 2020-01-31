@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 811 1017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_173"><path d="M495.6,115.4V82.5H710.8v32.9Z"/></clipPath>
+<clipPath id="c1_173"><path d="M423,411.5V378.6H638.2v32.9Z"/></clipPath>
+<clipPath id="c2_173"><path d="M495.6,487.9v-33H710.8v33Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_173{
+fill: #70A6CC;
+}
+.g1_173{
+}
+]]></style>
+</defs>
+<path d="M142.4,242.7H710.7V221.6H142.4v21.1Z" class="g0_173"/>
+<path d="M510.6,87.6v3.2l-.3,-.1l-6.2,-2.9l-.4,-.2l.4,-.2l6.2,-2.9l.3,-.1v.3l-.1,.2l-6.2,2.9l-.2,-.4h.2l6.2,3l-.2,.3l-.1,-.1v-3Z" class="g1_173"/>
+<path d="M510.2,87.6h.4V84.7h-.4v2.9Z" class="g1_173"/>
+<path d="M510.6,87.8h22.5v-.4H510.6v.4Z" class="g1_173"/>
+<g clip-path="url(#c0_173)">
+<path d="M532.8,115.5h.3V87.6h-.3v27.9Z" class="g1_173"/>
+</g>
+<path d="M509,338.2v3.2l-.2,-.1l-6.3,-3l-.4,-.1l.4,-.2l6.3,-3l.2,-.1v.3l-.1,.2l-6.2,2.9l-.2,-.3h.2l6.2,2.9l-.1,.4l-.1,-.2v-2.9Z" class="g1_173"/>
+<path d="M508.7,338.2h.3v-3h-.3v3Z" class="g1_173"/>
+<path d="M509.1,338.3h23.1V338H509.1v.3Z" class="g1_173"/>
+<path d="M531.8,338.2h.4V312.1h-.4v26.1Z" class="g1_173"/>
+<path d="M438,383.8v3.1l-.3,-.1L431.5,384l-.4,-.2l.4,-.2l6.2,-2.9l.3,-.1v.3l-.1,.2l-6.2,2.9l-.2,-.4h.2l6.2,2.9l-.2,.3l-.1,-.2v-2.8Z" class="g1_173"/>
+<path d="M437.6,383.8h.4v-2.9h-.4v2.9Z" class="g1_173"/>
+<path d="M438.1,384h22.5v-.4H438.1v.4Z" class="g1_173"/>
+<g clip-path="url(#c1_173)">
+<path d="M460.3,411.5h.3V383.8h-.3v27.7Z" class="g1_173"/>
+</g>
+<path d="M510.6,460.2v3.2l-.3,-.1l-6.2,-2.9l-.4,-.2l.4,-.2l6.2,-2.9l.3,-.1v.2l-.1,.2l-6.2,3l-.2,-.4h.2l6.2,2.9l-.2,.4l-.1,-.2v-2.9Z" class="g1_173"/>
+<path d="M510.2,460.2h.4v-3h-.4v3Z" class="g1_173"/>
+<path d="M510.6,460.4h22.5V460H510.6v.4Z" class="g1_173"/>
+<g clip-path="url(#c2_173)">
+<path d="M532.8,487.9h.3V460.2h-.3v27.7Z" class="g1_173"/>
+</g>
+</svg>

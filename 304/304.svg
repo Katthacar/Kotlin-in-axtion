@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 811 1017" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_304"><path d="M579.1,329.2V296.3H766.5v32.9Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_304{
+}
+]]></style>
+</defs>
+<path d="M189.3,118.1v-3.2l.3,.1l6.3,2.9l.4,.2l-.4,.2l-6.3,2.9l-.3,.1V121l.1,-.2l6.3,-2.9l.2,.4h-.2l-6.3,-3l.2,-.3l.1,.1v3Z" class="g0_304"/>
+<path d="M189.3,121h.4v-2.9h-.4V121Z" class="g0_304"/>
+<path d="M169.7,118.3h19.6v-.4H169.7v.4Z" class="g0_304"/>
+<path d="M169.7,173.7h.3V118.1h-.3v55.6Z" class="g0_304"/>
+<path d="M637.4,239.6v3.2l-.2,-.1l-6.4,-2.9l-.3,-.2l.3,-.2l6.4,-2.9l.2,-.1v.5l-6.4,2.9l-.2,-.4h.2l6.4,3l-.2,.3l-.1,-.1v-3Z" class="g0_304"/>
+<path d="M637.1,239.6h.4v-2.9h-.4v2.9Z" class="g0_304"/>
+<path d="M637.4,239.8h89.1v-.4H637.4v.4Z" class="g0_304"/>
+<path d="M726.1,239.6h.4V154.4h-.4v85.2Z" class="g0_304"/>
+<path d="M189.3,270.9v-3.2l.3,.1l6.3,2.9l.4,.2l-.4,.2l-6.3,2.9l-.3,.1v-.3l.1,-.2l6.3,-2.9l.2,.4h-.2l-6.3,-3l.2,-.3l.1,.1v3Z" class="g0_304"/>
+<path d="M189.3,273.8h.4v-2.9h-.4v2.9Z" class="g0_304"/>
+<path d="M169.7,271.1h19.6v-.4H169.7v.4Z" class="g0_304"/>
+<path d="M169.7,338.9h.3v-68h-.3v68Z" class="g0_304"/>
+<path d="M594.1,301.4v3.2l-.3,-.1l-6.3,-2.9l-.4,-.2l.4,-.2l6.3,-2.9l.3,-.1v.3l-.1,.2l-6.3,2.9l-.2,-.4h.2l6.3,2.9l-.2,.4l-.1,-.2v-2.9Z" class="g0_304"/>
+<path d="M593.7,301.4h.4v-2.9h-.4v2.9Z" class="g0_304"/>
+<path d="M594.1,301.6h22.5v-.4H594.1v.4Z" class="g0_304"/>
+<g clip-path="url(#c0_304)">
+<path d="M616.3,329.2h.3V301.4h-.3v27.8Z" class="g0_304"/>
+</g>
+<path d="M530.1,347.2v3.2h-.3l-6.3,-3l-.4,-.2l.4,-.1l6.3,-3l.3,-.1v.3l-.1,.2l-6.3,2.9l-.2,-.3h.2L530,350l-.2,.4l-.1,-.2v-3Z" class="g0_304"/>
+<path d="M529.7,347.2h.4v-2.9h-.4v2.9Z" class="g0_304"/>
+<path d="M530.1,347.4h22.6V347H530.1v.4Z" class="g0_304"/>
+<path d="M552.3,389h.4V347.2h-.4V389Z" class="g0_304"/>
+</svg>
